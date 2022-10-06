@@ -1,0 +1,40 @@
+body {
+  background-color:#000000
+}
+
+h3 {
+font-family: Courier New; color: #A000FF;
+}
+
+p {
+font-family: Trebuchet MS; color: #A000FF; font-size: 12px;
+}
+
+hr {
+background-color: #A000FF;
+border-style: none;
+height: 2px;
+}
+
+a {
+  color: #A000FF;
+}
+
+.gif-teste {
+max-width: 40%;
+}
+
+.gif-funcional {
+max-width: 40%;
+}
+
+.gif-central {
+align-content: center;
+align-items: center;
+align-self: center;
+width: 80%;
+}
+
+.gif-vertical {
+width: 80%;
+}
